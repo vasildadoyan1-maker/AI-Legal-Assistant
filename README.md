@@ -2,28 +2,49 @@
 
 ## Project Description
 
-This project is an AI-supported educational legal assistant developed using a vibe coding approach. It helps university students understand basic legal concepts through simple explanations and an interactive interface.
+AI Legal Assistant for Students is a simple educational web application created using a vibe coding approach with the support of generative AI. The project helps students understand basic legal concepts through an interactive interface.
+
+---
 
 ## Selected Scenario and Objectives
 
 ### Scenario
-Many law students struggle to understand complex legal terminology. This project provides simple AI-generated explanations to support learning.
+
+Many university students find legal terminology difficult to understand. This project provides simple explanations of common legal concepts.
 
 ### Objectives
-- Explain legal concepts in simple language.
-- Demonstrate the use of generative AI in software development.
-- Apply the vibe coding methodology.
 
-## Target Users
+- Demonstrate the use of generative AI in software development.
+- Build a simple educational legal assistant.
+- Apply the vibe coding methodology.
+- Improve students' understanding of basic legal concepts.
+
+---
+
+## Target Audience
 
 - Law students
 - University students
-- Beginners interested in legal education
+- Anyone interested in learning basic legal concepts
+
+---
 
 ## AI Tools Used
 
-- ChatGPT (GPT-5.5) – idea generation, planning, documentation, and code assistance
-- GitHub – repository management and version control
+- ChatGPT (GPT-5.5) – planning, documentation, code generation, and improvement
+- GitHub – version control and project hosting
+
+---
+
+## Installation / Usage
+
+1. Download or clone the repository.
+2. Open `index.html` in any modern web browser.
+3. Type a legal question and click **Get Answer**.
+
+No installation is required.
+
+---
 
 ## Repository Structure
 
@@ -37,33 +58,39 @@ style.css
 script.js
 ```
 
-## Installation
-
-1. Download the repository.
-2. Open `index.html` in any modern web browser.
-
-No installation is required.
+---
 
 ## Known Limitations
 
-- The assistant provides educational information only.
-- It is not a substitute for professional legal advice.
-- AI-generated responses may occasionally contain inaccuracies.
+- This project is intended for educational purposes only.
+- It does not replace professional legal advice.
+- The demo contains only a limited number of legal concepts.
+
+---
 
 ## Documentation
 
-See `PROCESS.md` for the development process.
+- [AI Development Process](PROCESS.md)
+- [Ethics and Legal Assessment](ETHICS_AND_LEGAL.md)
 
-## Ethics and Legal Assessment
+---
 
-See `ETHICS_AND_LEGAL.md`.
+## References
 
-## License
+- OpenAI ChatGPT (GPT-5.5)
+- GitHub
+- MDN Web Docs
 
-This project is distributed under the MIT License.
+---
 
 ## Credits
 
-Created by Vasil Dadoyan.
+Created by Vasil Dadoyan,Vahe Dvoyan
 
 Developed with the assistance of OpenAI ChatGPT.
+
+---
+
+## License
+
+This project is licensed under the MIT License.
